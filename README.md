@@ -15,7 +15,9 @@ julia compiler,
 XMGrace
 
 Generate data files used for the figures in the article:
+
 cd datfig
+
 julia ../genfig/gen_input_files.jl
 
 Generate figure 6A,B (and more):
