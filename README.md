@@ -11,7 +11,7 @@ rodent rhythmic whisking.
 Neuron, accepted for publication, 2022.
 
 Software needed:
-julia compiler
+julia compiler, 
 XMGrace
 
 Generate data files used for the figures in the article:
