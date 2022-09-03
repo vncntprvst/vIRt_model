@@ -11,18 +11,24 @@ rodent rhythmic whisking.
 Neuron, in press, 2022.
 
 Software needed:
-julia compiler
+julia compiler, 
 XMGrace
 LaTeX
 
 Generate data files used for the figures in the article:
+
 cd datfig
+
 julia ../genfig/gen_input_files.jl
 
 Generate figure 6A,B (and more):
+
 julia ../../prog/irt.jl pb_v_rast_intra
+
 julia ../../prog/irt.jl pb_v_rast_no_intra
+
 ../genfig/scripts_fig/vtfig_b.com
+
 ../genfig/scripts_fig/rasit_b.com
 
 Generate figure S2:
