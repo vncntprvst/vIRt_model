@@ -1,0 +1,8 @@
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+SmoothingSplines = "102930c3-cf33-599f-b3b1-9a29a5acab30"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
