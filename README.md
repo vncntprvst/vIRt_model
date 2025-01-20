@@ -3,14 +3,12 @@ Simulation programs for the article of [Golomb et al., 2022](https://doi.org/10.
 
 This github site includes computer programs and scripts for generating figures
 from the article:
-```
-David Golomb, Jeffrey D. Moore, Arash Fassihi, Jun Takatoh, Vincent Prevosto,
-Fan Wang and David Kleinfeld,
-**Theory of hierarchically-organized neuronal oscillator dynamics that mediate
-rodent rhythmic whisking.**
-*Neuron*, 110(22):3833-3851.e22, 2022. 
+<pre>
+David Golomb, Jeffrey D. Moore, Arash Fassihi, Jun Takatoh, Vincent Prevosto, Fan Wang and David Kleinfeld,
+**Theory of hierarchically-organized neuronal oscillator dynamics that mediate rodent rhythmic whisking.**
+Neuron, 110(22):3833-3851.e22, 2022. 
 DOI: https://doi.org/10.1016/j.neuron.2022.08.020
-```
+</pre>
 
 Software needed:
 + julia compiler 
